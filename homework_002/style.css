@@ -1,0 +1,33 @@
+.btnColor {
+    background-color: #4CAF50; 
+    border: none;
+    color: white;
+        text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 26px;
+    border-radius: 8px;
+}
+
+.btn {
+    background-color: #054280; 
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 8px;
+}
+
+.str {
+    background-color: #ffffff;
+    border: none;
+    color: #123456;
+    padding: 5px 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 40px;
+}
