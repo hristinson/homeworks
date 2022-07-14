@@ -1,0 +1,111 @@
+
+.center {
+    margin-top: 2%;
+    display: flex;
+    justify-content: center; }
+    
+.key
+        {
+    
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            background-color: #054280; 
+            border: none;
+            color: white;
+            padding: 15px 32px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 16px;
+            border-radius: 8px;
+                
+        }
+        .key:hover {
+            background-color: rgb(122, 75, 207);
+            cursor: pointer;
+          }
+
+.welcome
+        {
+            margin-inline: 2pt;
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            font-size: 25px;
+            color: rgb(167, 10, 10);
+        }
+
+.unknownCell
+        {
+            background-color: #054280; 
+            border: none;
+            color: white;
+            border-radius: 8px;
+        }
+
+        .unknownCell:hover {
+            background-color: rgb(75, 115, 122);
+            cursor: pointer;
+          }
+
+        
+.pasedCellGray
+        
+{
+    background-color: #457183; 
+    border: none;
+    color: white;
+    border-radius: 8px;
+}
+        
+.pasedCellBlack
+        
+{
+    background-color: #1d1517; 
+    border: none;
+    color: white;
+    border-radius: 8px;
+}
+
+.pasedCellGreen
+{
+    background-color: #14ec14; 
+    border: none;
+    color: white;
+    border-radius: 8px;
+}
+
+
+.pasedCellRed
+        
+{
+    background-color: #d10610; 
+    border: none;
+    color: white;
+    border-radius: 8px;
+}
+
+.voidArrow
+
+{
+    background-color: #9db481; 
+    border: none;
+    color: white;
+    border-radius: 8px;
+}
+
+.activeArrow
+
+{
+    background-color: #39d12c; 
+    border: none;
+    color: white;
+    border-radius: 8px;
+}
+
+
+.small
+        {
+            justify-content: center;
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            font-size: 16px;
+            color: rgb(56, 2, 2);
+            vertical-align: middle 
+        }
